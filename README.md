@@ -13,7 +13,6 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-
 ## Overview
 
 ### The challenge
@@ -29,11 +28,9 @@ Users should be able to:
 ![Mobile_view](./Screenshot_1.png)
 ![Destop_view](./Screenshot_2.png)
 
-
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Advice-Generator-App](https://shroomsky.github.io/Advice-generator-app-Slip-API/)
 
 ## My process
 
@@ -45,16 +42,13 @@ Users should be able to:
 - Sass
 - JS
 
-
 ### What I learned
 
 In this challenge, I practiced using the Fetch API and how to use the returned data.
 
-
 ### Useful resources
 
 - [MDN Fech API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) - This helped me for understanding how to use Fech.
-
 
 ## Author
 
