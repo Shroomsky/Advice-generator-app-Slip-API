@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Advice-Generator-App](https://shroomsky.github.io/Advice-generator-app-Slip-API/)
+- Solution URL: [Advice-Generator-App](https://advice-generator-slip-api.netlify.app/)
 
 ## My process
 
