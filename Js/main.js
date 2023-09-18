@@ -12,6 +12,8 @@ const getData = () => {
 		.then((data) => {
 			id = data.slip.id;
 			text = data.slip.advice;
+			console.log(id)
+			console.log(text)
 			if (Number(span.innerText) == id) {
 				getData();
 			} else {
