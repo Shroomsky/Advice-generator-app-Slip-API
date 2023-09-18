@@ -8,21 +8,21 @@ const getData = () => {
 	let text = "";
 	rollAnimation();
 	fetch(url)
-		.then((res) => res.json())
-		.then((data) => {
-			id = data.slip.id;
-			text = data.slip.advice;
-			if (Number(span.innerText) == id) {
-				getData();
-			} else {
-				render(id, text);
-			}
+	.then((res) => res.json())
+	.then((data) => {
+		id = data.slip.id;
+		text = data.slip.advice;
+		if (Number(span.innerText) == id) {
+			getData();
+		} else {
+			render(id, text);
+		}
 		});
 };
 
-const render = (id, text) => {
-	span.innerText = id;
-	p.innerText = text;
+const render = (a, b) => {
+	span.innerText = a;
+	p.innerText = b;
 };
 
 function rollAnimation() {
